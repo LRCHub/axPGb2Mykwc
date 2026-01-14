@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ファンキースパイス",
+  "base_artist": "BREIMEN",
+  "createdAt": "2026-01-14T01:37:08.261627Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ファンキースパイス",
+      "artist": "BREIMEN, TOMOO",
+      "has_synced": false,
+      "path": "select/pl_01_ファンキースパイス_BREIMEN,_TOMOO.txt"
+    }
+  ]
+}
